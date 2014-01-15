@@ -1,0 +1,6 @@
+c:\DogShowManager\DAL\bin\Debug\DAL.dll.config
+c:\DogShowManager\DAL\bin\Debug\DAL.dll
+c:\DogShowManager\DAL\bin\Debug\DAL.pdb
+c:\DogShowManager\DAL\obj\Debug\ResolveAssemblyReference.cache
+c:\DogShowManager\DAL\obj\Debug\DAL.dll
+c:\DogShowManager\DAL\obj\Debug\DAL.pdb

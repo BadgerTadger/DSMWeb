@@ -1,0 +1,7 @@
+c:\DogShowManager\BLL\bin\Debug\BLL.dll
+c:\DogShowManager\BLL\bin\Debug\BLL.pdb
+c:\DogShowManager\BLL\bin\Debug\DAL.dll
+c:\DogShowManager\BLL\bin\Debug\DAL.pdb
+c:\DogShowManager\BLL\obj\Debug\ResolveAssemblyReference.cache
+c:\DogShowManager\BLL\obj\Debug\BLL.dll
+c:\DogShowManager\BLL\obj\Debug\BLL.pdb
